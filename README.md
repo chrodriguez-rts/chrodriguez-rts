@@ -97,8 +97,8 @@ A hands-on, **multi-session workshop** taking you from Terraform fundamentals to
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=chrodriguez-rts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrodriguez-rts&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chrodriguez-rts&theme=tokyonight" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chrodriguez-rts&theme=tokyonight" />
 
 </div>
 
