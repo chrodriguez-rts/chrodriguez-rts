@@ -5,7 +5,7 @@
 
 <!-- BADGE ROW -->
 [![Azure Administrator](https://img.shields.io/badge/Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-rodriguez-7a333079?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Location](https://img.shields.io/badge/New_York_City-NY-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com)
 
 </div>
